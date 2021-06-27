@@ -4,12 +4,12 @@
 
 ## Installation
 
-### npm i @stuntstorm/math --save
+### ``` npm i @stuntstorm/math --save```
 
 ## Usage
 
 ### Require with any Variable
-const math = require("@stuntstorm/math");
+``` const math = require("@stuntstorm/math");```
 ### Attributes
 ```
 math.add()
