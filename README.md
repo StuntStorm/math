@@ -23,7 +23,7 @@ math.add3()
 math.add4()
 math.add5()
 ```
-And Similar to the other attributes to increase the  number of values subsctituted
+And Similar to the other attributes to increase the  number of values substituted
 
 ## Example Scenerio 1
 
