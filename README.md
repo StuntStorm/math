@@ -4,21 +4,25 @@
 
 ## Installation
 
-#### npm i @stuntstorm/math --save
+### npm i @stuntstorm/math --save
 
 ## Usage
 
-#### Require with any Variable
+### Require with any Variable
 const math = require("@stuntstorm/math");
-#### Attributes
+### Attributes
+```
 math.add()
 math.subtract()
 math.multiply()
 math.divide()
-#### Additional Attributes 
+```
+### Additional Attributes 
+```
 math.add3()
 math.add4()
 math.add5()
+```
 And Similar to the other attributes to increase the  number of values subsctituted
 
 ## Example Scenerio 1
